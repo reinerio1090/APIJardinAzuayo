@@ -11,9 +11,13 @@
 
   [Incidencias J.A..postman_collection.json](https://github.com/reinerio1090/APIJardinAzuayo/files/15448759/Incidencias.J.A.postman_collection.json)
 
-- Cambiar configuraciones de base de datos en el archivo ubicado en:
+- Cambiar configuraciones de conexion a base de datos en el archivo ubicado en:
 
    **src/main/resources/application.properties **
+
+      spring.datasource.url=jdbc:postgresql://localhost:5432/BDJA
+      spring.datasource.username=postgres
+      spring.datasource.password=Sistemas2024
 
 - instalar las dependencias de Maven
 
