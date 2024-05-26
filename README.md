@@ -5,7 +5,7 @@
 -   Listar todos las incidencias.
 -   Guardar las incidencias.
 -   Modificar las incidencias.
--   Buscar incidencias por el usuario de soporte.
+-   Buscar incidencias por identificador de usuario de soporte.
 -   Buscar incidencias entre fechas
 -   Buscar incidencias pendientes
 
