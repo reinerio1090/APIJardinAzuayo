@@ -1,6 +1,6 @@
 # APIJardinAzuayo
 
-## Requisitos
+## Pasos y requisitos de despliegue
 
 -  PostgreSQL 11
 -  Descargar sentencias SQL para creación de base e inserción de datos
