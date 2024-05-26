@@ -13,7 +13,7 @@
 
 - Cambiar configuraciones de conexion a base de datos en el archivo ubicado en:
 
-   **src/main/resources/application.properties **
+   src/main/resources/application.properties
 
       spring.datasource.url=jdbc:postgresql://localhost:5432/BDJA
       spring.datasource.username=postgres
