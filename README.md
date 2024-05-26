@@ -19,7 +19,7 @@
 
       mvn clean install
 
-  - Ejecutar la Aplicación
+- Ejecutar la Aplicación
 
       mvn spring-boot:run
 
