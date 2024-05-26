@@ -1,10 +1,5 @@
 # APIJardinAzuayo
 
-## Tabla de Contenidos
-
-- [Requisitos](#requisitos)
-
-
 ## Requisitos
 
 - Colección de Postman con los endpoint para el consumo en servidor local
