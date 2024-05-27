@@ -11,7 +11,7 @@
 
 ## Pasos y requisitos de despliegue
 
--  Tener PostgreSQL 11
+-  Tener instalado PostgreSQL 11
 -  Tener instalado java 17
 -  Descargar y ejecución de sentencias SQL para creación de base e inserción de datos
 
